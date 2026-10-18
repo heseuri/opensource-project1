@@ -1,3 +1,0 @@
-/home/song/vscode_project/cmake_example/build/CMakeFiles/foobar.dir
-/home/song/vscode_project/cmake_example/build/CMakeFiles/edit_cache.dir
-/home/song/vscode_project/cmake_example/build/CMakeFiles/rebuild_cache.dir
