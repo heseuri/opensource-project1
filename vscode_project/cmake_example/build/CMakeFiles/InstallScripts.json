@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/song/vscode_project/cmake_example/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

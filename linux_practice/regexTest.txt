@@ -1,0 +1,11 @@
+apple
+banana
+Apple
+apple123
+banana456
+hello world
+hello linux
+test1
+test2
+testABC
+12345

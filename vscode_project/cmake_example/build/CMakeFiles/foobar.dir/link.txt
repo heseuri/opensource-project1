@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/foobar.dir/link.d CMakeFiles/foobar.dir/main.c.o CMakeFiles/foobar.dir/foo.c.o CMakeFiles/foobar.dir/bar.c.o -o foobar
